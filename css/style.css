@@ -88,6 +88,52 @@ hr{
     border-radius: 5px;
     margin-top: 10px;
 }
+/* last-main-design */
 .lates-course-color{
     margin-top: 0px;
+}
+.course{
+    padding-left: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+.element-1{
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 225px;
+}
+.image .element-image img{
+    height: 104px;
+    width: 224px;
+}
+.course .image .element-image img{
+    margin-bottom: 0px;
+}
+.course .image h3,p{
+    margin:0px;
+}
+.three-element{
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    row-gap: 30px;
+}
+.three-element .star{
+    margin-top: 5px;
+    height: 11px;
+    width: 77px;
+    display: flex;
+}
+.two-element{
+    background-color: #FFE4E8;
+    border-radius: 15px;
+    height: 20px;
+    padding-top: 0px;
+    width: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.three-element .two-element .clock img{
+    height: 20px;
+    width: 20px;
 }
