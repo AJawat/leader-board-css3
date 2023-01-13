@@ -3,7 +3,7 @@
 /* common styles */
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #afd9a4;
+    background-color: #c9ffd7;
 }
 main{
     display: flex;
@@ -12,7 +12,7 @@ main{
     border: 3px;
 }
 .container{
-    background-color: rgb(176, 255, 160);
+    background-color: #a4f5ba;
     width: 870px;
     padding: 30px ;
     border-radius: 5px;
@@ -82,7 +82,7 @@ hr{
     color: #562EFF;
 }
 .second-container{
-    background-color: rgb(176, 255, 160);
+    background-color: #a4f5ba;
     width: 870px;
     padding: 30px ;
     border-radius: 5px;
@@ -90,7 +90,7 @@ hr{
 }
 /* last-main-design */
 .lates-course-color{
-    margin-top: 0px;
+    color: #005801b9;
 }
 .course{
     padding-left: 0px;
