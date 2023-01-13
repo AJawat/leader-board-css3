@@ -39,6 +39,7 @@ header{
     flex-direction: row;
     align-items: center;
     padding-right: 20px;
+    font-weight: bold;
 }
 .header-main-two a{
     padding: 10px;
